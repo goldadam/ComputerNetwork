@@ -1,2 +1,3 @@
-# ComputerNetwork
-this is for computerNetwork 
+# 문서함.
+
+프로젝트 제안서 및 주차별 회의록이 보관되어 있는 폴더입니다.
